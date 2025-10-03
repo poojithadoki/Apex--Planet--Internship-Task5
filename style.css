@@ -141,7 +141,7 @@ body {
   /* background:linear-gradient(to right,#000,lightgrey) url(./shopping1.jpg); */
   /* background: linear-gradient(to right, #000, lightgrey) url('./shopping1.jpg'); */
   background:
-    linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)) url('./homepage.png.png');
+    linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)) url('./indexpage.png');
   height: 110vh;
   width: 100%;
   background-size: cover;
