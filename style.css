@@ -143,7 +143,7 @@ body {
   background:
     linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)),
     /* semi-transparent gradient */
-    url(./name.png);
+    url('./homepage.png.png');
   height: 110vh;
   width: 100%;
   background-size: cover;
