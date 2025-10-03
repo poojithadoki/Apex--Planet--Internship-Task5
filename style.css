@@ -143,7 +143,7 @@ body {
   background:
     linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)),
     /* semi-transparent gradient */
-    url('./images/homepage.png.png');
+    url('./homepage.png.png');
   height: 110vh;
   width: 100%;
   background-size: cover;
@@ -165,7 +165,7 @@ body {
 }
 
 #hero button {
-  background-image: url(./images/name.png);
+  background-image: url(./name.png);
   background-color: transparent;
   color: #088178;
   border: 0;
@@ -324,7 +324,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url(./images/banner6.jpeg); 
+  background-image: url(./banner6.jpeg); 
   background-color: darkslategray;
   width: 100%;
   height: 40vh;
@@ -368,7 +368,7 @@ body {
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  background-image: url("./images/banner1.jpeg");
+  background-image: url("./banner1.jpeg");
   min-width: 580px;
   height: 50vh;
   background-size: cover;
@@ -378,7 +378,7 @@ body {
 }
 
 #sm-banner .banner-box2 {
-  background-image: url("./images/banner2.jpeg");
+  background-image: url("./banner2.jpeg");
 }
 
 #sm-banner h4 {
@@ -420,7 +420,7 @@ body {
   justify-content: center;
   align-items: flex-start;
   text-align: center;
-  background-image: url("./images/banner3.jpeg");
+  background-image: url("./banner3.jpeg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -430,11 +430,11 @@ body {
 }
 
 #banner3 .banner-box2 {
-  background-image: url(./images/banner4.jpeg);
+  background-image: url(./banner4.jpeg);
 }
 
 #banner3 .banner-box3 {
-  background-image: url(./images/banner5.jpeg);
+  background-image: url(./banner5.jpeg);
 }
 
 #banner3 h2 {
@@ -575,7 +575,7 @@ footer .copyright {
 
 
 #page-header{
-    background-image: url(./images/background.jpg);
+    background-image: url(./background.jpg);
     width:100%;
     height:40vh;
     background-size: cover;
@@ -675,7 +675,7 @@ footer .copyright {
 
 /*Blog page*/
 #page-header .blog-header{
-    background-image: url(./images/background.jpg);
+    background-image: url(./background.jpg);
 }
 
 #blog{
@@ -747,7 +747,7 @@ footer .copyright {
 /*About page*/
 
 #page-header.about-header{
-  background-image: url(./images/background.jpg);
+  background-image: url(./background.jpg);
 
 }
 
